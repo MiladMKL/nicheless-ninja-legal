@@ -40,4 +40,4 @@ These Terms are governed by the laws of Germany.
 Exclusive venue for any dispute shall be the courts of Berlin.
 
 ## 10. Contact
-For questions, email: **support@nicheless-ninja.example**  
+For questions, email: **nichelessninja@gmail.com**  

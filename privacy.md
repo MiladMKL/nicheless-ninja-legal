@@ -18,7 +18,7 @@ Art. 6 Abs. 1 lit. b DSGVO – Vertragserfüllung (Bereitstellung des Upload-Die
 
 ## 4. Deine Rechte
 Auskunft, Berichtigung, Löschung, Datenübertragbarkeit.  
-Schreib einfach an **nicheless.ninja@proton.me**.
+Schreib einfach an **nichelessninja@gmail.com**.
 
 ## 5. Sicherheit
 * Tokens verschlüsselt (AES-256) gespeichert.  

@@ -4,7 +4,7 @@ _Last updated: 8 June 2025_
 
 ## 1. Verantwortliche Person
 Ich, der Betreiber von Nicheless Ninja, handel als private Einzelperson  
-(E-Mail: **nicheless.ninja@proton.me**).
+(E-Mail: **nichelessninja@gmail.com**).
 
 ## 2. Welche Daten ich verarbeite
 | Kategorie | Daten | Zweck | Speicherfrist |

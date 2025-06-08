@@ -3,41 +3,37 @@
 _Last updated: 8 June 2025_
 
 ## 1. Introduction
-Nicheless Ninja (“**Service**”, “**we**”, “**our**”) is a server-side automation workflow that uploads and publishes videos to TikTok on behalf of authenticated users. By connecting your TikTok account and using the Service, **you agree to these Terms of Service**.
+**Nicheless Ninja** ist ein rein privates Automatisierungsskript (nachfolgend „**Service**“, „**ich**“, „**mir**“).  
+Indem du deinen TikTok-Account per OAuth verknüpfst, **stimmst du diesen Bedingungen zu**.
 
-## 2. Eligibility
-You must be at least 18 years old and hold a valid TikTok account in good standing.  
-You remain solely responsible for all content posted by the Service to your account.
+## 2. Wer darf den Service nutzen?
+Du bist mindestens 18 Jahre alt und besitzt ein gültiges TikTok-Konto.  
+Du trägst die volle Verantwortung für alle Inhalte, die dein Konto über den Service veröffentlicht.
 
-## 3. Our Responsibilities
-* We transmit your video files and captions to TikTok only after you have authorised us via OAuth.  
-* We do **not** modify your videos beyond the technical processing required for upload.  
-* We endeavour to keep the Service available 24/7 but do not guarantee uptime.
+## 3. Was ich mache – und was nicht
+* Ich übertrage deine Videos und Captions ausschließlich an TikTok, nachdem du mir per OAuth Zugriff gewährt hast.  
+* Ich speichere keine Videos dauerhaft.  
+* Ich betreibe den Service als Hobby – es gibt keine Verfügbarkeitsgarantie.
 
-## 4. Your Responsibilities
-* Provide accurate information during OAuth authorisation.  
-* Ensure your videos comply with TikTok’s Community Guidelines and local laws.  
-* **Indemnify** us from any claims arising from content you upload through the Service.
+## 4. Deine Pflichten
+* Stelle sicher, dass deine Inhalte TikToks Community-Richtlinien und geltendes Recht einhalten.  
+* Hebe den OAuth-Zugriff auf, wenn du den Service nicht mehr nutzen willst.
 
-## 5. Prohibited Use
-You may not use the Service to upload:
-* Illegal, hateful, sexually explicit or violent content.  
-* Spam or misleading advertising.  
-* Content that infringes third-party intellectual-property rights.
+## 5. Verbotene Nutzung
+Kein Upload von illegalen, gewaltverherrlichenden, sexuellen, hasserfüllten oder urheberrechtlich geschützten Inhalten ohne Erlaubnis.
 
-## 6. Fees
-The core Service is free of charge. If we introduce paid plans, we will notify you at least 30 days in advance.
+## 6. Kosten
+Der Service ist kostenlos. Sollte sich das ändern, informiere ich dich mindestens 30 Tage vorher.
 
-## 7. Termination
-You may revoke the Service’s TikTok access token at any time in your TikTok settings.  
-We reserve the right to suspend or terminate the Service for any user who breaches these Terms.
+## 7. Beendigung
+Du kannst den Zugriff jederzeit in den TikTok-Einstellungen widerrufen.  
+Ich behalte mir vor, den Service jederzeit einzustellen oder einzelnen Nutzern zu sperren, wenn sie diese Bedingungen verletzen.
 
-## 8. Limitation of Liability
-The Service is provided “as-is”. To the maximum extent permitted by law, we disclaim all warranties and will not be liable for indirect or consequential damages.
+## 8. Haftungsausschluss
+Der Service wird **“as-is”** bereitgestellt. Ich hafte nicht für mittelbare oder Folgeschäden.
 
-## 9. Governing Law
-These Terms are governed by the laws of Germany.  
-Exclusive venue for any dispute shall be the courts of Berlin.
+## 9. Anwendbares Recht
+Es gilt deutsches Recht. Gerichtsstand ist Berlin.
 
-## 10. Contact
-For questions, email: **nichelessninja@gmail.com**  
+## 10. Kontakt
+Fragen? Schreib mir an **nichelessninja@gmail.com**
